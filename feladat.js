@@ -49,7 +49,7 @@ gombok[2].onclick = function () {
 
         hely.appendChild(gyumolcsElem);
     }
-};
+}; 
 
 
 gombok[3].onclick = function () {
